@@ -1,0 +1,31 @@
+<h1 align="center">🌍 World Capital Quiz</h1>
+
+<p align="center">
+  <i>Test your geography knowledge — guess the capital of each country and climb the leaderboard!</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/emir-mutlu/World_Capital_Quiz_Website/assets/demo-screenshot.png" alt="World Capital Quiz Screenshot" width="720">
+</p>
+
+---
+
+## 🧠 About the Project
+This project is a fun and educational **geography quiz** web app built with **Node.js**, **Express**, and **EJS**.  
+It randomly selects a country from a dataset and challenges you to guess its capital.  
+Each correct answer increases your score — one mistake ends the game.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Node.js** – Server runtime  
+- **Express.js** – Routing and request handling  
+- **EJS** – Dynamic templating engine  
+- **Body-Parser** – Handling form submissions  
+- **CSS3** – Clean and responsive design  
+- **PostgreSQL (optional)** – Can be extended for persistent score storage  
+
+---
+
+
