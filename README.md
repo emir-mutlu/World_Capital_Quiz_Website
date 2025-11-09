@@ -4,9 +4,7 @@
   <i>Test your geography knowledge — guess the capital of each country and climb the leaderboard!</i>
 </p>
 
-<p align="center">
-  <img src="https://github.com/emir-mutlu/World_Capital_Quiz_Website/assets/demo-screenshot.png" alt="World Capital Quiz Screenshot" width="720">
-</p>
+
 
 ---
 
