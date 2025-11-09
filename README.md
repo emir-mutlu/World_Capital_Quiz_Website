@@ -29,3 +29,12 @@ Each correct answer increases your score — one mistake ends the game.
 ---
 
 
+💡 Future Improvements
+
+Add leaderboard and database for top scores
+
+Implement country flags
+
+Add difficulty levels
+
+Create a REST API version for mobile integration
